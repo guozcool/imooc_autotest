@@ -4,3 +4,11 @@ git status
 git add test.txt
 git commit -m "第一次代码提交"
 git push
+git checkout master 切换分支为master
+git branch 查看本地分支
+git branch -a 查看远程分支和本地分支
+git checkout -b branch1 创建分支branch1
+git branch -d branch1 删除本地分支branch1
+git branch -D branch1 强制删除本地分支branch1
+git branch -r -d oringin/branch1 删除远程分支branch1
+git push origin :branch1 
