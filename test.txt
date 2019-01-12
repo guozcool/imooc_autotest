@@ -12,3 +12,5 @@ git branch -d branch1 删除本地分支branch1
 git branch -D branch1 强制删除本地分支branch1
 git branch -r -d oringin/branch1 删除远程分支branch1
 git push origin :branch1 
+解决合并冲突问题：
+这个是mergedemo上的内容
