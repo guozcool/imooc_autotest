@@ -1,0 +1,6 @@
+这是一次git操作的练习，如何进行代码的同步和拉取
+git clone 地址
+git status
+git add test.txt
+git commit -m "第一次代码提交"
+git push
