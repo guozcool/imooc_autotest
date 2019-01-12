@@ -11,4 +11,6 @@ git checkout -b branch1 创建分支branch1
 git branch -d branch1 删除本地分支branch1
 git branch -D branch1 强制删除本地分支branch1
 git branch -r -d oringin/branch1 删除远程分支branch1
-git push origin :branch1 
+git push origin :branch1
+git merge mergedemo  将mergedemo分支的内容合并到当前分支
+这个是master分支上的内容
